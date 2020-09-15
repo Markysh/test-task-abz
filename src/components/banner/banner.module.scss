@@ -1,0 +1,33 @@
+.banner {
+  height: 400px;
+  width: 100%;
+  text-align: center;
+  background-image: url("../../images/banner-photo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.title {
+  padding: 70px 29px 20px 29px;
+  font-size: 30px;
+  line-height: 34px;
+  text-transform: uppercase;
+  color: white;
+}
+
+.subtitle {
+  padding: 0 15px 24px 15px;
+  font-size: 16px;
+  line-height: 24px;
+  color: white;
+}
+
+.button {
+  padding: 10px 60px 9px 60px;
+  border: none;
+  border-radius: 3px;
+  font-size: 16px;
+  background-color: #EF5B4C;
+  color: white;
+}

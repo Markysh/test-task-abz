@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 32px;
+  width: 150px;
+  background-image: url("../../images/logo.svg");
+  background-repeat: no-repeat;
+  background-position: 15px 11px;
+}
+
+.menuIcon {
+  height: 40px;
+  width: 35px;
+  background-image: url("../../images/menu-icon.svg");
+  background-position: 0 13px;
+  background-repeat: no-repeat;
+  border: none;
+  background-color: white;
+}

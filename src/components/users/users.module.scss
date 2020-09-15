@@ -1,0 +1,58 @@
+.container {
+  text-align: center;
+  background-color: #f9f9f3;
+}
+
+.title {
+  padding-top: 69px;
+  margin-bottom: 7px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.subtitle {
+  margin-bottom: 36px;
+  font-size: 16px;
+}
+
+.card {
+  margin-bottom: 40px;
+}
+
+.icon {
+  width: 69px;
+  height: 74px;
+  margin: 0 auto;
+  background-image: url("../../images/user1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: 50%;
+}
+
+.name {
+  padding-left: 80px;
+  padding-right: 79px;
+  margin-top: 9px;
+  margin-bottom: 9px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #212529;
+}
+
+.details {
+  padding-left: 81px;
+  padding-right: 84px;
+  margin-bottom: 40px;
+  font-size: 16px;
+  color: #4C4B4B;
+}
+
+.button {
+  padding: 10px 65px 10px 65px;
+  margin-bottom: 80px;
+  font-size: 16px;
+  background-color: #EF5B4C;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}

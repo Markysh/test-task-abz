@@ -1,0 +1,47 @@
+.container {
+  text-align: center;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 70px;
+  margin-bottom: 32px;
+  color: #212529;
+}
+
+.picture {
+  width: 289px;
+  height: 243px;
+  margin: 0 auto;
+  background-image: url("../../images/man-laptop-v1.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.subtitle {
+  margin-top: 34px;
+  margin-bottom: 18px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #212529;
+}
+
+.description {
+  padding: 0 15px;
+  margin-bottom: 36px;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: justify;
+  color: #4C4B4B;
+}
+
+.button {
+  margin-bottom: 78px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #EF5B4C;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
